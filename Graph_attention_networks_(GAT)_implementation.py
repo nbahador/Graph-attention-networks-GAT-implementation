@@ -1,6 +1,3 @@
-# https://github.com/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial3/Tutorial3.ipynb
-# https://www.youtube.com/watch?v=CwsPoa7z2c8&t=303s
-
 # -------------------------------------------------------- #
 # -------------------------------------------------------- #
 # implementing a graph neural network with an
