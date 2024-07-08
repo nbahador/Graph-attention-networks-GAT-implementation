@@ -179,7 +179,7 @@ scipy.io.savemat('attention_weights_final.mat', {'attention_weights_final': atte
 
 
 
-aaaa = 1
+
 print("Gradient norm below threshold. Training stopped.")
 
 
